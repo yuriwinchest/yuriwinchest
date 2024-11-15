@@ -1,12 +1,21 @@
 ## Sobre Mim
 
-👋 Olá! Eu sou o @yuriwinchest, tenho 37 anos e estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas. Comecei a estudar programação profundamente em 2024 e, desde então, tenho me dedicado a adquirir conhecimento em várias áreas, incluindo HTML, JavaScript, CSS e Python.
+👋 Olá! Eu sou o @yuriwinchest, tenho 37 anos e estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas. Comecei a estudar programação profundamente em 2020 e, desde então, tenho me dedicado a adquirir conhecimento em várias áreas, incluindo HTML, JavaScript, CSS e Python.
+
+
+
+
+
 
 Tenho desenvolvido vários projetinhos que estão hospedados aqui no meu GitHub, como jogos, calculadoras e páginas relacionadas a bancos de dados, explorando vinculação e integração de dados. Esses projetos me ajudaram a aplicar e consolidar meus conhecimentos nessas tecnologias.
 
-Atualmente, sou estagiário no SERPRO e estou estudando programação pela Alura, onde tenho a oportunidade de aprender e praticar diariamente. Além das tecnologias mencionadas, também estou começando a implementar projetos utilizando Go, Angular e React. Embora esteja no início do aprendizado dessas tecnologias, estou empolgado para continuar evoluindo e aplicando esses novos conhecimentos.
+Desenvolvedor especializado em soluções tecnológicas para diversos setores, com ampla experiência na criação de software para clínicas médicas, sistemas PDV para supermercados, plataformas de gestão para escolas e sites de vendas de grande escala.
 
-Estou sempre buscando novas oportunidades de colaboração em projetos de desenvolvimento web, especialmente aqueles relacionados a dropshipping e e-commerce. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para me contatar!
+Minhas habilidades abrangem uma ampla gama de linguagens e frameworks, incluindo Python (Flask para APIs leves e Django para aplicações robustas), HTML5, CSS3, JavaScript (React.js e Vue.js), e PHP. Tenho experiência em bancos de dados MySQL e SQLite, além de técnicas modernas de layout como Flexbox e Grid para interfaces responsivas e adaptáveis.
+
+Sou especialista em automação de processos, com desenvolvimento de scripts em Python para integração de sistemas e otimização de fluxos de trabalho. Utilizo Git e GitHub para controle de versão, CI/CD (Jenkins, GitLab CI, GitHub Actions) para deploy automatizado, e metodologias ágeis como Scrum e Kanban para garantir entregas eficientes e adaptáveis.
+
+No front de inteligência artificial, domino plataformas como Google Cloud Gemini e ChatGPT, com habilidades avançadas na criação de prompts eficazes que garantem interações precisas e resultados alinhados aos objetivos dos projetos. Ferramentas adicionais incluem Postman para testes de API, garantindo qualidade e confiabilidade em cada solução desenvolvida."
 
 📫 Como me encontrar: Você pode me encontrar através do meu email ou perfil no GitHub.
 😄 Pronomes: Ele/Dele
