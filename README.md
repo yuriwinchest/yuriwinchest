@@ -13,7 +13,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na UniFECAF (conclusão 
 - 🤖 Implementação de soluções de IA e automação que reduziram em até 30% o tempo de resposta em projetos freelance.
 
 🛠️ Competências Técnicas
-- Back-end: Python (Flask, Django), PHP
+- Back-end: Python (Flask, Django, Pip, UV), PHP
 - Front-end: React.js, Vue.js, HTML5, CSS3, JavaScript
 - Banco de Dados: MySQL, PostgreSQL, MongoDB, SQLite
 - DevOps: Docker, AWS, CI/CD (Jenkins, GitLab CI, GitHub Actions)
