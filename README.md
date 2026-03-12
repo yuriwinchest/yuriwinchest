@@ -26,6 +26,5 @@ Meu foco é unir experiência prática e inovação para desenvolver soluções 
 
 📫 Contato
 - 🌐 www.yuriwinchester.com.br
-- 📧 (adicione aqui seu email profissional)
+
 - 👥 2.555 seguidores  +500 conexões
-- Pronomes: Ele/Dele
