@@ -26,5 +26,6 @@ Meu foco é unir experiência prática e inovação para desenvolver soluções 
 
 📫 Contato
 - 🌐 www.yuriwinchester.com.br
+https://www.linkedin.com/in/yuribrasilia/
 
 - 👥 2.555 seguidores  +500 conexões
