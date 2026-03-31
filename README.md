@@ -1,14 +1,12 @@
-# Yuri 
+# Yuri Winchester
 
-**Focado em transformar dados em decisões (Data & AI)**
+**Transmito confiança e opero com clareza.**
 
-Sou apaixonado por tecnologia e, atualmente, estou unindo minha base técnica com a paixão pela análise estratégica, cursando especializações em Data Analytics e Desenvolvimento de Software. Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um negócio. Por isso, foco meus estudos em transformar grandes volumes de informação em insights acionáveis.
+Sou desenvolvedor Full Stack especializado em soluções para **saúde, comércio e sistemas empresariais personalizados**. Do backend ao painel final, entrego projetos com consistência visual, leitura rápida e visão de produção voltada para estabilidade, escala e resultados.
 
-📊 Atualmente explorando: 🐍Python (🐼Pandas / 📈Matplotlib / 🔢Numpy), 🐬SQL, 📊PowerBI e 🤖Inteligência artificial.
-
-🛠 Background técnico: Desenvolvimento de sistemas e prototipagem ágil.
-
-💡 Buscando aplicar IA e Analytics para resolver problemas reais de mercado.
+✔️ **Consistência visual:** Interfaces coesas, limpas e fáceis de navegar.
+✔️ **Leitura rápida:** Fluxos pensados para entendimento imediato da operação.
+✔️ **Visão de produção:** Entrega orientada a resultado e escala de negócio.
 
 <p align="left">
   <a href="https://github.com/yuriwinchest?tab=followers">
@@ -17,40 +15,51 @@ Sou apaixonado por tecnologia e, atualmente, estou unindo minha base técnica co
   <a href="https://github.com/yuriwinchest">
     <img src="https://img.shields.io/github/stars/yuriwinchest?label=ESTRELAS&style=for-the-badge&color=529e10&logo=github" alt="Estrelas" />
   </a>
-  <a href="https://linkedin.com/in/LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="#portfolio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ff0000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  <a href="https://yuriwinchester.com.br">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yuriwinchester.com.br-ff0000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-### 💻 Linguagens e tecnologias
+### 💻 Stack Técnica Orientada a Produto e Operação
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" title="Vue.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"  />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python (Flask/Django)" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP / Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
+  <!-- DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
+  <img width="12" />
+  <!-- AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" title="OpenCV" />
 </p>
 
-### 📊 Estatísticas
+> **Integrações de Valor e Arquitetura suplementar:** `OAuth 2.0`, `JWT`, `Firebase`, `Mercado Pago (Gateways)`, `Stripe`, `GitHub Actions`, `Vertex AI`, `Hugging Face (BERT/GPT)`, `ChatGPT/LLMs Integrados`, `MongoDB`, `SQLite`.
+
+### 📊 Estatísticas 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yuriwinchest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
