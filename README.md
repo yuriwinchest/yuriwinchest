@@ -59,9 +59,4 @@ Sou desenvolvedor Full Stack especializado em soluções para **saúde, comérci
 
 > **Integrações de Valor e Arquitetura suplementar:** `OAuth 2.0`, `JWT`, `Firebase`, `Mercado Pago (Gateways)`, `Stripe`, `GitHub Actions`, `Vertex AI`, `Hugging Face (BERT/GPT)`, `ChatGPT/LLMs Integrados`, `MongoDB`, `SQLite`.
 
-### 📊 Estatísticas 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriwinchest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriwinchest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150" />
-</p>
