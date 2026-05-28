@@ -10,6 +10,12 @@ Com o início da pandemia em 2020, comecei a faculdade de Análise e Desenvolvim
 Desde janeiro de 2025, atuo como freelancer independente, desenvolvendo aplicações personalizadas para diferentes áreas de negócio. Hoje, meu foco está em entregar soluções digitais completas, combinando React, Python e PHP, sempre com atenção às necessidades específicas de cada cliente — desde pequenos negócios até grandes empresas.
 Sempre gostei de transformar ideias em soluções práticas, e é isso que me motiva até hoje. Se você busca um desenvolvedor para criar sistemas sob medida, será um prazer trocar ideias e colaborar.
 
+### Desenvolvedor web, programador, sites e aplicativos
+
+Publiquei um guia direto para quem procura desenvolvimento web, criação de sites, aplicativos e sistemas sob medida:
+
+https://yuriwinchester.com.br/artigos/site-para-programadores-desenvolvedores
+
 ✔️ **Consistência visual:** Interfaces coesas, limpas e fáceis de navegar.
 ✔️ **Leitura rápida:** Fluxos pensados para entendimento imediato da operação.
 ✔️ **Visão de produção:** Entrega orientada a resultado e escala de negócio.
