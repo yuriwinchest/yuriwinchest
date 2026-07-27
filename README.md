@@ -1,74 +1,70 @@
-# Yuri Winchester
+# 💻 Yuri Winchester | Desenvolvedor Full Stack & IA Aplicada
 
-**Transmito confiança e opero com clareza.**
+> *Transformo desafios complexos em sistemas inteligentes, escaláveis e sob medida — do design da interface à infraestrutura em produção.*
 
-Sou desenvolvedor com mais de 15 anos de experiência em tecnologia, atuando desde a criação de sites simples até sistemas complexos de gestão empresarial.
-Minha jornada começou em 2008, quando fiz meu primeiro curso de PHP e passei a criar pequenos sites para comércios locais em Brasília e Goiânia. Pouco depois, em 2010, complementei meus estudos com cursos de bancos de dados (MySQL, MariaDB, MongoDB), o que me permitiu entregar soluções mais completas.
-Em 2012, mergulhei no Python, inicialmente para análise de dados, mas logo comecei a integrar essa linguagem nas aplicações que desenvolvia. Já em 2013, tive meu primeiro grande desafio: criar um sistema de gestão interna para supermercados em Goiás, incluindo controle de estoque e frente de caixa, usando Python e PHP.
-Outros projetos importantes vieram em 2016, como o sistema de gestão para uma rede de farmácias com mais de 30 lojas entre Brasília e Goiás. Entre 2017 e 2019, trabalhei em sistemas internos para diferentes empresas locais — supermercados, farmácias, redes de sorveterias e restaurantes — sempre focado em soluções sob medida.
-Com o início da pandemia em 2020, comecei a faculdade de Análise e Desenvolvimento de Sistemas e também me aprofundei em React, passando a criar sites modernos, landing pages e soluções para e-commerce. Em 2023, retomei a faculdade e realizei estágios em órgãos públicos como o Banco Central e Certo, ampliando minha experiência em ambientes corporativos.
-Desde janeiro de 2025, atuo como freelancer independente, desenvolvendo aplicações personalizadas para diferentes áreas de negócio. Hoje, meu foco está em entregar soluções digitais completas, combinando React, Python e PHP, sempre com atenção às necessidades específicas de cada cliente — desde pequenos negócios até grandes empresas.
-Sempre gostei de transformar ideias em soluções práticas, e é isso que me motiva até hoje. Se você busca um desenvolvedor para criar sistemas sob medida, será um prazer trocar ideias e colaborar.
+---
 
-### Desenvolvedor web, programador, sites e aplicativos
+## 🚀 Sobre Mim
 
-Publiquei um guia direto para quem procura desenvolvimento web, criação de sites, aplicativos e sistemas sob medida:
+Desenvolvedor Full Stack focado em arquitetura de software, automação e integração de sistemas de alto impacto. Crio soluções ponta a ponta: interface, regra de negócio, banco de dados, pagamentos, deploy e manutenção em produção.
 
-https://yuriwinchester.com.br/artigos/site-para-programadores-desenvolvedores
+* 🎯 **Foco:** SaaS, E-commerce, Sistemas Empresariais e HealthTech
+* 🤖 **Diferencial:** IA aplicada de verdade — uso agentes de IA no desenvolvimento real de produtos em produção
+* 💼 **Disponibilidade:** Projetos freelance & consultoria técnica
 
-✔️ **Consistência visual:** Interfaces coesas, limpas e fáceis de navegar.
-✔️ **Leitura rápida:** Fluxos pensados para entendimento imediato da operação.
-✔️ **Visão de produção:** Entrega orientada a resultado e escala de negócio.
+---
 
-<p align="left">
-  <a href="https://github.com/yuriwinchest?tab=followers">
-    <img src="https://img.shields.io/github/followers/yuriwinchest?label=SEGUIDORES&style=for-the-badge&color=007ec6&logo=github" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/yuriwinchest">
-    <img src="https://img.shields.io/github/stars/yuriwinchest?label=ESTRELAS&style=for-the-badge&color=529e10&logo=github" alt="Estrelas" />
-  </a>
-  <a href="https://yuriwinchester.com.br">
-    <img src="https://img.shields.io/badge/PORTFOLIO-yuriwinchester.com.br-ff0000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+## 🛠️ Stack Tecnológica
 
-### 💻 Stack Técnica Orientada a Produto e Operação
+| Domínio | Tecnologias & Ferramentas |
+| --- | --- |
+| **Frontend** | React, TypeScript, Tailwind CSS, Vite |
+| **Backend** | Node.js, Python (FastAPI), Appwrite (BaaS) |
+| **Bancos de Dados** | PostgreSQL, MySQL, SQLite |
+| **Pagamentos** | Pix (integração direta), Mercado Pago, Stripe |
+| **DevOps & Infra** | Linux (VPS), Docker, Nginx, Caddy, GitHub Actions (CI/CD), deploys automatizados |
+| **Segurança** | OAuth 2.0, JWT, TLS on-demand, rate limiting, hardening de servidor (firewall/fail2ban), secret scanning |
+| **IA & Automação** | Agentes de IA (Claude, GPT, Gemini) aplicados ao desenvolvimento, automação de processos, OpenCV |
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" title="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python (Flask/Django)" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP / Laravel" />
-  <img width="12" />
-  <!-- DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-  <img width="12" />
-  <!-- AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" title="OpenCV" />
-</p>
+---
 
-> **Integrações de Valor e Arquitetura suplementar:** `OAuth 2.0`, `JWT`, `Firebase`, `Mercado Pago (Gateways)`, `Stripe`, `GitHub Actions`, `Vertex AI`, `Hugging Face (BERT/GPT)`, `ChatGPT/LLMs Integrados`, `MongoDB`, `SQLite`.
+## 📌 Projeto em Destaque
 
+### 🏃 Largada — Plataforma SaaS White-Label para Corridas de Rua *(em produção)*
 
+Plataforma completa que cria e hospeda sites para organizadores de corridas de rua:
+
+* 🎨 **Sites white-label** com identidade de cada evento, inscrições online e checkout Pix
+* 📡 **Resultados em tempo real** — integração com cronometragem por chip (Wiclax), passagens publicadas ao vivo no site do evento
+* 🏗️ **Infraestrutura própria** — VPS + Docker + CI/CD com build e deploy automáticos a cada push
+* 🔐 **Segurança de nível produção** — TLS sob demanda para domínios customizados, rate limiting em pagamentos, auditoria de ações administrativas e varredura de segredos no CI
+* 💳 **Modelo de negócio** — setup + mensalidade, com múltiplos eventos atendidos na mesma infraestrutura
+
+---
+
+## 💼 O Que Eu Desenvolvo para Você
+
+### 🛒 Comércio & E-commerce
+Lojas e checkouts com Pix/Mercado Pago, painéis administrativos e automação de pedidos.
+
+### 🏢 Sistemas Empresariais
+Painéis de gestão, integrações entre sistemas, APIs e infraestrutura containerizada com deploy contínuo.
+
+### 🏥 Saúde & HealthTech
+Plataformas com autenticação segura, proteção de dados sensíveis e automação de rotinas.
+
+---
+
+## 📈 Por Que Trabalhar Comigo?
+
+* **Visão 360°:** entrego do banco de dados à tela final — e deixo rodando em produção
+* **IA no processo:** desenvolvimento acelerado por agentes de IA, com revisão e testes automatizados
+* **Segurança real:** meus projetos passam por hardening, auditoria e varredura de vulnerabilidades
+
+---
+
+## 📬 Vamos Conversar?
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(61)%2099352--1849-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561993521849?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.)
+
+*Atendo projetos freelance pela 99Freelas e por contato direto.*
